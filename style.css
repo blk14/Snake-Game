@@ -1,0 +1,28 @@
+#mycanvas {
+    width: 800px;
+    display: block;
+    border: 2px black solid;
+    align-content: center;
+    margin: auto;
+    background: green;
+}
+
+#msg {
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+    position: absolute;
+    z-index: 100;
+}
+
+h2 {
+    size: 15px;
+    margin-left: 20px;
+    display: inline;
+}
+
+h3 {
+    display: inline;
+    size: 15px;
+}
